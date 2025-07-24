@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Context>
+    <Resource name="jdbc/GotItDB"
+              auth="Container"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              type="javax.sql.DataSource"
+              username="Nikolas"
+              password="AVNS_DpUVj2mweu_Qkc84fmU"
+              url="jdbc:mysql://gotit-got-it.g.aivencloud.com:27746/got_it?useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimecode=false/amp;serverTimezone=UTC"
+              />
+</Context>
